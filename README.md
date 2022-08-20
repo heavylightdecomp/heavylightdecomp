@@ -1,4 +1,6 @@
-### Hi there 👋
+I program :D <br></br>
+💬 I’m currently working on my problem-solving skills and (re)learning C++
+
 
 <!--
 **heavylightdecomp/heavylightdecomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
